@@ -1,3 +1,3 @@
-console.error();
-console.log();
+console.error("error");
+console.log("you're good");
 console.warn();
